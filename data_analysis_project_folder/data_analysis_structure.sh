@@ -52,7 +52,7 @@ cd scripts
 echo "# README for scripts folder" > scripts_README.md
 echo "This folder stores the scripts used for the data anlysis" >> scripts_README.md
 echo "" >> scripts_README.md
-echo "## Scripts list and description" >> figs_README.md
+echo "## Scripts list and description" >> scripts_README.md
 echo "Here is a descriptive list of the different scripts" >>scripts_README.md
 cd ../
 
